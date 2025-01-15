@@ -34,3 +34,24 @@ To get started with this project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/KRSNA-BLR/ecommerce-starter-kit.git
+
+---
+
+## **Examples**
+
+### Example Data
+We provide example data for testing the application:
+- `example-data.json`: Sample users and orders data.
+
+### Example Configuration
+An example configuration is included to help you get started:
+- `example-config.json`: Basic server and database configuration.
+
+---
+
+## **Contribution Guidelines**
+
+We encourage contributions to this project! Here are some resources to help you get started:
+
+- **Bug Reports**: Use our [bug report template](.github/ISSUE_TEMPLATE/bug_report.md) to report issues.
+- **Pull Requests**: Follow the [pull request template](.github/pull_request_template.md) to submit changes.
