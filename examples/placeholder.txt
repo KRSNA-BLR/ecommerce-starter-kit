@@ -1,0 +1,1 @@
+This folder will contain practical examples, such as configuration files and usage scenarios, for the E-Commerce Starter Kit.
