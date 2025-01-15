@@ -1,0 +1,1 @@
+This folder will contain the backend code for the E-Commerce Starter Kit, including the API endpoints and business logic.
