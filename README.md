@@ -21,7 +21,7 @@ A starter kit for building e-commerce applications with a simple frontend, backe
 
 ## **About the Project**
 
-The **E-Commerce Starter Kit** provides developers with a ready-to-use structure for building e-commerce applications. Whether you're starting a new project or looking for inspiration, this kit is designed to save time and effort.
+The **E-Commerce Starter Kit** provides developers with a ready-to-use structure for building e-commerce applications. Whether you are starting a new project or looking for inspiration, this kit is designed to save time and effort.
 
 This project includes:
 - A basic backend built with Node.js.
@@ -29,14 +29,14 @@ This project includes:
 - A simple database file for testing purposes.
 
 ### **Why Use This Kit?**
-- To jumpstart your e-commerce application development.
+- To speed up the development of your e-commerce application.
 - To learn and experiment with a modular project structure.
 - To collaborate with others using clear guidelines and examples.
 
 ---
 
 ## **Features**
-- **Frontend**: A responsive HTML template for a storefront.
+- **Frontend**: A responsive HTML template for a store.
 - **Backend**: A basic Node.js server with RESTful endpoints.
 - **Database**: A simple JSON-based database for testing purposes.
 - **Documentation**: Clear instructions and examples for setup and customization.
@@ -45,12 +45,12 @@ This project includes:
 
 ## **Getting Started**
 
-### Prerequisites
-Before starting, ensure you have the following installed on your system:
+### **Prerequisites**
+Before starting, make sure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) (v14 or higher)  
 - A text editor (e.g., [VSCode](https://code.visualstudio.com/))  
 
-### Installation Steps
+### **Installation Steps**
 1. Clone the repository:
    ```bash
    git clone https://github.com/KRSNA-BLR/ecommerce-starter-kit.git
@@ -71,7 +71,7 @@ Before starting, ensure you have the following installed on your system:
 ## **Examples**
 
 ### **Sample Product Page**
-![Sample Product Page](https://github.com/KRSNA-BLR/ecommerce-starter-kit/blob/main/public/images/ecommerce-starter-kit.jpg)
+![Sample Product Page](public/images/ecommerce-starter-kit.jpg)
 
 ### **Checkout Workflow**
 1. Add items to the cart.
@@ -119,4 +119,3 @@ Contributions are welcome! To contribute:
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
