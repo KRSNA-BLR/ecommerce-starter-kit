@@ -55,3 +55,64 @@ Before starting, ensure you have the following installed on your system:
    ```bash
    git clone https://github.com/KRSNA-BLR/ecommerce-starter-kit.git
    cd ecommerce-starter-kit
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open your browser and navigate to `http://localhost:3000` to view the application.
+
+---
+
+## **Examples**
+
+### Sample Product Page
+![Sample Product Page](https://via.placeholder.com/800x400?text=Sample+Product+Page)
+
+### Checkout Workflow
+1. Add items to the cart.
+2. Proceed to checkout.
+3. Submit payment information.
+
+---
+
+## **Folder Structure**
+
+```
+.
+├── public
+│   └── index.html    # Frontend HTML template
+├── src
+│   ├── server.js     # Main Node.js server file
+│   └── routes
+│       └── products.js # Example RESTful API endpoint
+├── database
+│   └── db.json       # Sample JSON database
+└── package.json      # Project metadata and dependencies
+```
+
+---
+
+## **Contribution Guidelines**
+
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Commit your changes with a descriptive message.
+   ```bash
+   git commit -m "Add: your feature description"
+   ```
+4. Push to your branch and submit a pull request.
+
+---
+
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
